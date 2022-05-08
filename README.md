@@ -28,6 +28,5 @@ please remember to comment your code:<br/>
 **HOW** - does it solve a problem? / how does it work?<br/>
 <br/>
 if you have a feature request, please use the <a href="https://github.com/JuggernOtt81-USI/USI_Classes/issues/new/choose">"feature request / bug report"</a> page <br/>
-
 <br/>
 to become a contributor, send message to Lawson via company email and include your github profile.<br/>
