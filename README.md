@@ -1,6 +1,6 @@
 # USI_Classes<br/>
 a collection of classes and sub-routines which could dramatically <br/>
-improve efficiency in the call center and reducer labor costs<br/>
+improve efficiency in the call center and reduce labor costs<br/>
 <br/>
 **VERY IMPORTANT NOTE for contributors:<br/>
 contributions will only be accepted from current employees!<br/>
