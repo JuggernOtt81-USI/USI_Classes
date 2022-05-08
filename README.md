@@ -20,15 +20,14 @@ language preferences hierarchy:<br/>
 #6 any procedural programming language<br/>
 <br/>
 please remember to comment your code:<br/>
-WHO - will use it/ who will it benefit?<br/>
-WHAT - problem does it solve? / what does it do?<br/>
-WHEN - would it be used? / how often?<br/>
-WHERE - would it fit in the current workflow?<br/>
-WHY - should it be implemented? / why is it needed?<br/>
-HOW - does it solve a problem? / how does it work?<br/>
+**WHO** - will use it / who will it benefit?<br/>
+**WHAT** - problem does it solve? / what does it do?<br/>
+**WHEN** - would it be used? / how often?<br/>
+**WHERE** - would it fit in the current workflow?<br/>
+**WHY** - should it be implemented? / why is it needed?<br/>
+**HOW** - does it solve a problem? / how does it work?<br/>
 <br/>
-if you have a feature request, please use the "feature request" here <br/>
-https://github.com/JuggernOtt81-USI/USI_Classes/issues/new/choose <br/>
-(bug reports can be filed via the same link)<br/>
+if you have a feature request, please use the <a href="https://github.com/JuggernOtt81-USI/USI_Classes/issues/new/choose">"feature request / bug report"</a> page <br/>
+
 <br/>
 to become a contributor, send message to Lawson via company email and include your github profile.<br/>
