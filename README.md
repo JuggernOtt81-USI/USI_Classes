@@ -8,6 +8,8 @@ NOTHING in this public repository may contain ANY proprietary (company secret) c
 this is ONLY for those who see an inefficiency in the workflow that could easily save time 
 (and money) by automating it, and have the skills to write the logic for it.
 
+please name your fork/branch: USI_Classes_<githubProfile>
+
 language preferences hierarchy:
 **supplemental: HTML, CSS, scripting languages, etc don't fall on the hierarchy, they just supplement**
 #1 C# (possible .NET implementation coming from this)
